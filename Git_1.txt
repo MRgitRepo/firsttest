@@ -1,0 +1,15 @@
+Toola
+
+GitHub
+GitLab
+SVN -- SubVersion
+
+CVS --- concurrent version system
+TFS --  team foundatin server MS
+
+Create an Organization
+Create repository
+Create Team (group)
+Add the members 
+provide repo access to team
+
